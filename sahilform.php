@@ -15,7 +15,7 @@
 			}
 		div {
 			border-radius: 5 px;
-			background-color: lightslategrey;
+			background-color: white;
 			padding-top: 2%;
 			padding-right: 4%;
 			padding-left: 4%;
